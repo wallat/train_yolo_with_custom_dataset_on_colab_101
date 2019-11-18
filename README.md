@@ -1,0 +1,2 @@
+# train_yolo_with_custom_dataset_on_colab_101
+我們將會訓練一個能偵測圖片中貓和狗的模型。你可以自由替換資料集，還偵測自訂的物體。
